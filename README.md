@@ -6,6 +6,12 @@
 </p>
 <br>
 <div>
+<h1>Alguns Projetos </h1>
+
+:red_circle:[BLOG](https://julianooutlook.github.io/Blog-Project/)
+:heavy_check_mark:[CALCULADORA](https://julianooutlook.github.io/Calculator-Project/)
+:computer:[CURRICULO](https://julianooutlook.github.io/curriculo/)
+<hr>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80">
@@ -18,16 +24,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianooutlook&hide_progress=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianooutlook&layout=donut-vertical)
-
 <br>
 <hr>
-<h1>Alguns Projetos </h1>
-
-:red_circle:[BLOG](https://github.com/Julianooutlook/Blog-Project)
-:heavy_check_mark:[CALCULADORA](https://github.com/Julianooutlook/Calculator-Project)
-:computer:[CURRICULO](https://github.com/Julianooutlook/curriculo)
-
-
 </a>
 <br>
 <br>
